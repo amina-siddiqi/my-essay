@@ -1,1 +1,2 @@
- This essay explored the improtant 
+ This essay explores the important. 
+version control prevents conflicts
